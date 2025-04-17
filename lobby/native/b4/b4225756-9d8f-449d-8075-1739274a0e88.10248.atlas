@@ -1,1468 +1,1461 @@
 
 icon lobby2.png
-size: 2033,2033
+size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 BC_BG1
   rotate: false
-  xy: 2, 467
+  xy: 2, 482
+  size: 269, 425
+  orig: 269, 425
+  offset: 0, 0
+  index: -1
+TXMD5_BG1
+  rotate: false
+  xy: 2, 482
   size: 269, 425
   orig: 269, 425
   offset: 0, 0
   index: -1
 TX_BG1
   rotate: false
-  xy: 2, 467
+  xy: 2, 482
   size: 269, 425
   orig: 269, 425
   offset: 0, 0
   index: -1
 XD_BG1
   rotate: false
-  xy: 2, 467
+  xy: 2, 482
   size: 269, 425
   orig: 269, 425
   offset: 0, 0
   index: -1
 BC_BG2
   rotate: true
-  xy: 1458, 1774
+  xy: 1458, 1789
   size: 257, 413
   orig: 257, 413
   offset: 0, 0
   index: -1
 BC_BG_FX2
   rotate: false
-  xy: 1365, 414
+  xy: 1300, 654
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
 BC_Black_filter
   rotate: false
-  xy: 2, 52
+  xy: 2, 67
   size: 257, 413
   orig: 257, 413
   offset: 0, 0
   index: -1
 BC_Coin1
-  rotate: false
-  xy: 1956, 500
+  rotate: true
+  xy: 1769, 24
   size: 60, 55
   orig: 60, 55
   offset: 0, 0
   index: -1
 BC_Coin2
-  rotate: true
-  xy: 741, 154
+  rotate: false
+  xy: 1796, 161
   size: 46, 39
   orig: 46, 39
   offset: 0, 0
   index: -1
 BC_Coin3
-  rotate: true
-  xy: 1755, 590
+  rotate: false
+  xy: 1344, 1286
   size: 91, 84
   orig: 91, 84
   offset: 0, 0
   index: -1
 BC_Dice_backup
   rotate: false
-  xy: 261, 128
+  xy: 532, 406
   size: 213, 203
   orig: 213, 203
   offset: 0, 0
   index: -1
 BC_Dice_black
   rotate: false
-  xy: 843, 1257
+  xy: 843, 1272
   size: 268, 268
   orig: 268, 268
   offset: 0, 0
   index: -1
 BC_FX_shine
   rotate: false
-  xy: 1873, 1873
+  xy: 1676, 753
   size: 158, 158
   orig: 158, 158
   offset: 0, 0
   index: -1
 SB_FX_shine
   rotate: false
-  xy: 1873, 1873
+  xy: 1676, 753
   size: 158, 158
   orig: 158, 158
   offset: 0, 0
   index: -1
 TXMD5_FX_shine
   rotate: false
-  xy: 1873, 1873
+  xy: 1676, 753
   size: 158, 158
   orig: 158, 158
   offset: 0, 0
   index: -1
 TX_FX_shine
   rotate: false
-  xy: 1873, 1873
+  xy: 1676, 753
   size: 158, 158
   orig: 158, 158
   offset: 0, 0
   index: -1
 XD_FX_shine
   rotate: false
-  xy: 1873, 1873
+  xy: 1676, 753
   size: 158, 158
   orig: 158, 158
   offset: 0, 0
   index: -1
 BC_Frame1
   rotate: true
-  xy: 631, 404
+  xy: 710, 698
   size: 258, 64
   orig: 258, 64
   offset: 0, 0
   index: -1
 TX_Frame1
   rotate: true
-  xy: 631, 404
+  xy: 710, 698
   size: 258, 64
   orig: 258, 64
   offset: 0, 0
   index: -1
 XD_Frame1
   rotate: true
-  xy: 631, 404
+  xy: 710, 698
   size: 258, 64
   orig: 258, 64
   offset: 0, 0
   index: -1
 BC_Frame2
   rotate: true
-  xy: 1113, 1268
+  xy: 1096, 1013
   size: 257, 84
   orig: 257, 84
   offset: 0, 0
   index: -1
 SB_Frame2
   rotate: true
-  xy: 1113, 1268
+  xy: 1096, 1013
   size: 257, 84
   orig: 257, 84
   offset: 0, 0
   index: -1
 TXMD5_Frame2
   rotate: true
-  xy: 1113, 1268
+  xy: 1096, 1013
   size: 257, 84
   orig: 257, 84
   offset: 0, 0
   index: -1
 TX_Frame2
   rotate: true
-  xy: 1113, 1268
+  xy: 1096, 1013
   size: 257, 84
   orig: 257, 84
   offset: 0, 0
   index: -1
 XD_Frame2
   rotate: true
-  xy: 1113, 1268
+  xy: 1096, 1013
   size: 257, 84
   orig: 257, 84
   offset: 0, 0
   index: -1
 BC_Frame3
-  rotate: true
-  xy: 501, 664
+  rotate: false
+  xy: 273, 313
   size: 257, 179
   orig: 257, 179
   offset: 0, 0
   index: -1
 SB_Frame3
-  rotate: true
-  xy: 501, 664
+  rotate: false
+  xy: 273, 313
   size: 257, 179
   orig: 257, 179
   offset: 0, 0
   index: -1
 TXMD5_Frame3
-  rotate: true
-  xy: 501, 664
+  rotate: false
+  xy: 273, 313
   size: 257, 179
   orig: 257, 179
   offset: 0, 0
   index: -1
 TX_Frame3
-  rotate: true
-  xy: 501, 664
+  rotate: false
+  xy: 273, 313
   size: 257, 179
   orig: 257, 179
   offset: 0, 0
   index: -1
 XD_Frame3
-  rotate: true
-  xy: 501, 664
+  rotate: false
+  xy: 273, 313
   size: 257, 179
   orig: 257, 179
   offset: 0, 0
   index: -1
 BC_Frame_fx1
-  rotate: false
-  xy: 1203, 325
+  rotate: true
+  xy: 749, 97
   size: 130, 32
   orig: 130, 32
   offset: 0, 0
   index: -1
 TXMD5_Frame_fx1
-  rotate: false
-  xy: 1203, 325
+  rotate: true
+  xy: 749, 97
   size: 130, 32
   orig: 130, 32
   offset: 0, 0
   index: -1
 TX_Frame_fx1
-  rotate: false
-  xy: 1203, 325
+  rotate: true
+  xy: 749, 97
   size: 130, 32
   orig: 130, 32
   offset: 0, 0
   index: -1
 XD_Frame_fx1
-  rotate: false
-  xy: 1203, 325
+  rotate: true
+  xy: 749, 97
   size: 130, 32
   orig: 130, 32
   offset: 0, 0
   index: -1
 BC_Frame_fx2
   rotate: true
-  xy: 659, 943
+  xy: 588, 958
   size: 323, 176
   orig: 323, 176
   offset: 0, 0
   index: -1
 TX_Frame_fx2
   rotate: true
-  xy: 659, 943
+  xy: 588, 958
   size: 323, 176
   orig: 323, 176
   offset: 0, 0
   index: -1
 XD_Frame_fx2
   rotate: true
-  xy: 659, 943
+  xy: 588, 958
   size: 323, 176
   orig: 323, 176
   offset: 0, 0
   index: -1
 BC_Table
   rotate: false
-  xy: 2, 1253
+  xy: 2, 1268
   size: 424, 335
   orig: 424, 335
   offset: 0, 0
   index: -1
 BC_text1
   rotate: true
-  xy: 1116, 991
+  xy: 1810, 269
   size: 55, 70
   orig: 55, 70
   offset: 0, 0
   index: -1
 BC_text1_glow
-  rotate: true
-  xy: 1668, 678
+  rotate: false
+  xy: 1726, 161
   size: 68, 80
   orig: 68, 80
   offset: 0, 0
   index: -1
 BC_text2
-  rotate: true
-  xy: 1811, 687
+  rotate: false
+  xy: 2002, 1190
   size: 44, 67
   orig: 44, 67
   offset: 0, 0
   index: -1
 BC_text2_glow
   rotate: false
-  xy: 1826, 130
+  xy: 1705, 72
   size: 58, 77
   orig: 58, 77
   offset: 0, 0
   index: -1
 BC_text3
-  rotate: true
-  xy: 1905, 191
+  rotate: false
+  xy: 1930, 164
   size: 40, 42
   orig: 40, 42
   offset: 0, 0
   index: -1
 BC_text3_glow
   rotate: false
-  xy: 1890, 343
+  xy: 1887, 41
   size: 53, 52
   orig: 53, 52
   offset: 0, 0
   index: -1
 BC_text4
-  rotate: true
-  xy: 1739, 748
+  rotate: false
+  xy: 1992, 1432
   size: 54, 70
   orig: 54, 70
   offset: 0, 0
   index: -1
 BC_text4_glow
   rotate: false
-  xy: 1964, 1497
+  xy: 1113, 1290
   size: 67, 80
   orig: 67, 80
   offset: 0, 0
   index: -1
 BC_text5
   rotate: false
-  xy: 1949, 194
+  xy: 1008, 49
   size: 40, 42
   orig: 40, 42
   offset: 0, 0
   index: -1
 BC_text5_glow
   rotate: true
-  xy: 1851, 223
+  xy: 905, 39
   size: 53, 52
   orig: 53, 52
   offset: 0, 0
   index: -1
 BC_text6
   rotate: false
-  xy: 1991, 194
+  xy: 1050, 49
   size: 40, 42
   orig: 40, 42
   offset: 0, 0
   index: -1
 BC_text6_glow
-  rotate: true
-  xy: 1838, 534
+  rotate: false
+  xy: 1992, 1311
   size: 54, 52
   orig: 54, 52
   offset: 0, 0
   index: -1
 FX_Break
   rotate: false
-  xy: 1724, 107
+  xy: 1791, 524
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 FX_Glow
   rotate: false
-  xy: 992, 10
+  xy: 1893, 524
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 FX_Ring1
   rotate: false
-  xy: 1094, 10
+  xy: 1708, 404
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 FX_Ring2
   rotate: false
-  xy: 1196, 21
+  xy: 1708, 302
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 FX_White
   rotate: false
-  xy: 1949, 238
+  xy: 1996, 1101
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 Khung chung
   rotate: true
-  xy: 579, 1755
+  xy: 579, 1770
   size: 276, 446
   orig: 276, 446
   offset: 0, 0
   index: -1
 Player_00
   rotate: false
-  xy: 1398, 1559
+  xy: 971, 771
   size: 160, 200
   orig: 160, 200
   offset: 0, 0
   index: -1
 Player_01
-  rotate: false
-  xy: 1199, 1295
+  rotate: true
+  xy: 747, 417
   size: 160, 200
   orig: 160, 200
   offset: 0, 0
   index: -1
 Player_02
-  rotate: false
-  xy: 1361, 1295
+  rotate: true
+  xy: 963, 255
   size: 160, 200
   orig: 160, 200
   offset: 0, 0
   index: -1
 Player_03
   rotate: false
-  xy: 1377, 1093
+  xy: 1113, 1574
   size: 160, 200
   orig: 160, 200
   offset: 0, 0
   index: -1
 Player_04
-  rotate: true
-  xy: 839, 314
+  rotate: false
+  xy: 1275, 1574
   size: 160, 200
   orig: 160, 200
   offset: 0, 0
   index: -1
 Player_05
   rotate: false
-  xy: 1011, 527
+  xy: 1113, 1372
   size: 160, 200
   orig: 160, 200
   offset: 0, 0
   index: -1
 Player_06
   rotate: false
-  xy: 1041, 325
+  xy: 1275, 1372
   size: 160, 200
   orig: 160, 200
   offset: 0, 0
   index: -1
 Player_07
-  rotate: true
-  xy: 1560, 1410
+  rotate: false
+  xy: 1437, 1480
   size: 160, 200
   orig: 160, 200
   offset: 0, 0
   index: -1
 Player_08
   rotate: true
-  xy: 1762, 1417
+  xy: 1726, 1485
   size: 160, 200
   orig: 160, 200
   offset: 0, 0
   index: -1
 Player_09
   rotate: false
-  xy: 1539, 1208
+  xy: 1437, 1278
   size: 160, 200
   orig: 160, 200
   offset: 0, 0
   index: -1
 Player_10
   rotate: false
-  xy: 1539, 1006
+  xy: 1599, 1277
   size: 160, 200
   orig: 160, 200
   offset: 0, 0
   index: -1
 Player_11
   rotate: false
-  xy: 1701, 1208
+  xy: 1761, 1283
   size: 160, 200
   orig: 160, 200
   offset: 0, 0
   index: -1
 Player_12
   rotate: false
-  xy: 1701, 1006
+  xy: 1182, 1170
   size: 160, 200
   orig: 160, 200
   offset: 0, 0
   index: -1
 Player_13
   rotate: false
-  xy: 1863, 1214
+  xy: 1182, 968
   size: 160, 200
   orig: 160, 200
   offset: 0, 0
   index: -1
 Player_14
-  rotate: false
-  xy: 1863, 1012
+  rotate: true
+  xy: 1133, 806
   size: 160, 200
   orig: 160, 200
   offset: 0, 0
   index: -1
 Player_15
   rotate: false
-  xy: 1377, 891
+  xy: 1138, 604
   size: 160, 200
   orig: 160, 200
   offset: 0, 0
   index: -1
 Player_16
-  rotate: true
-  xy: 1539, 844
+  rotate: false
+  xy: 1344, 1076
   size: 160, 200
   orig: 160, 200
   offset: 0, 0
   index: -1
 Player_17
-  rotate: false
-  xy: 1741, 804
+  rotate: true
+  xy: 1506, 1115
   size: 160, 200
   orig: 160, 200
   offset: 0, 0
   index: -1
 Player_18
   rotate: false
-  xy: 1137, 763
+  xy: 1165, 222
   size: 160, 200
   orig: 160, 200
   offset: 0, 0
   index: -1
 Player_19
   rotate: false
-  xy: 1173, 561
+  xy: 1344, 874
   size: 160, 200
   orig: 160, 200
   offset: 0, 0
   index: -1
 Player_20
   rotate: false
-  xy: 1203, 359
+  xy: 1506, 913
   size: 160, 200
   orig: 160, 200
   offset: 0, 0
   index: -1
 Player_21
-  rotate: false
-  xy: 620, 202
+  rotate: true
+  xy: 963, 93
   size: 160, 200
   orig: 160, 200
   offset: 0, 0
   index: -1
 Player_22
-  rotate: true
-  xy: 782, 152
+  rotate: false
+  xy: 1165, 20
   size: 160, 200
   orig: 160, 200
   offset: 0, 0
   index: -1
 Player_23
   rotate: false
-  xy: 984, 112
+  xy: 1668, 913
   size: 160, 200
   orig: 160, 200
   offset: 0, 0
   index: -1
 Player_24
-  rotate: false
-  xy: 1146, 123
+  rotate: true
+  xy: 1708, 1115
   size: 160, 200
   orig: 160, 200
   offset: 0, 0
   index: -1
 Player_25
   rotate: false
-  xy: 1308, 123
+  xy: 1830, 913
   size: 160, 200
   orig: 160, 200
   offset: 0, 0
   index: -1
 SB_BG
   rotate: false
-  xy: 1250, 1092
+  xy: 1599, 1479
   size: 125, 201
   orig: 125, 201
   offset: 0, 0
   index: -1
 SB_Bow_Top
   rotate: false
-  xy: 1203, 1563
+  xy: 776, 775
   size: 193, 196
   orig: 193, 196
   offset: 0, 0
   index: -1
 SB_Bowl_Bot
-  rotate: true
-  xy: 833, 686
+  rotate: false
+  xy: 532, 229
   size: 244, 175
   orig: 244, 175
   offset: 0, 0
   index: -1
 SB_Dice1
-  rotate: false
-  xy: 1365, 325
+  rotate: true
+  xy: 774, 2
   size: 89, 87
   orig: 89, 87
   offset: 0, 0
   index: -1
 SB_Dice2
   rotate: true
-  xy: 1607, 590
+  xy: 1018, 1682
   size: 86, 82
   orig: 86, 82
   offset: 0, 0
   index: -1
 SB_Dice3
-  rotate: false
-  xy: 1892, 624
+  rotate: true
+  xy: 1923, 1334
   size: 68, 67
   orig: 68, 67
   offset: 0, 0
   index: -1
 SB_FX_Bowl
   rotate: true
-  xy: 273, 562
+  xy: 360, 936
   size: 330, 226
   orig: 330, 226
   offset: 0, 0
   index: -1
 SB_FX_Text1
   rotate: false
-  xy: 428, 1541
+  xy: 428, 1556
   size: 145, 47
   orig: 145, 47
   offset: 0, 0
   index: -1
 SB_FX_Text2
-  rotate: false
-  xy: 1018, 1713
+  rotate: true
+  xy: 863, 4
   size: 98, 40
   orig: 98, 40
   offset: 0, 0
   index: -1
 SB_FX_Text3
-  rotate: false
-  xy: 117, 11
+  rotate: true
+  xy: 1992, 1020
   size: 79, 39
   orig: 79, 39
   offset: 0, 0
   index: -1
 SB_Text1_1
-  rotate: false
-  xy: 922, 83
+  rotate: true
+  xy: 1923, 1272
   size: 60, 67
   orig: 60, 67
   offset: 0, 0
   index: -1
 SB_Text1_2
   rotate: false
-  xy: 1859, 334
+  xy: 2009, 287
   size: 29, 64
   orig: 29, 64
   offset: 0, 0
   index: -1
 SB_Text1_3
   rotate: false
-  xy: 1750, 683
+  xy: 70, 2
   size: 59, 63
   orig: 59, 63
   offset: 0, 0
   index: -1
 SB_Text1_4
   rotate: false
-  xy: 1977, 683
+  xy: 1992, 1365
   size: 54, 65
   orig: 54, 65
   offset: 0, 0
   index: -1
 SB_Text1_5
-  rotate: true
-  xy: 1892, 558
+  rotate: false
+  xy: 1882, 269
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
   index: -1
 SB_Text1_glow1
   rotate: true
-  xy: 1647, 15
+  xy: 1803, 202
   size: 65, 70
   orig: 65, 70
   offset: 0, 0
   index: -1
 SB_Text1_glow2
-  rotate: false
-  xy: 582, 337
+  rotate: true
+  xy: 1980, 1153
   size: 35, 66
   orig: 35, 66
   offset: 0, 0
   index: -1
 SB_Text1_glow3
   rotate: true
-  xy: 1961, 557
+  xy: 2, 2
   size: 63, 66
   orig: 63, 66
   offset: 0, 0
   index: -1
 SB_Text1_glow4
   rotate: false
-  xy: 1896, 489
+  xy: 1823, 92
   size: 58, 67
   orig: 58, 67
   offset: 0, 0
   index: -1
 SB_Text1_glow5
-  rotate: false
-  xy: 1299, 893
+  rotate: true
+  xy: 1976, 1639
   size: 68, 70
   orig: 68, 70
   offset: 0, 0
   index: -1
 SB_Text2_1
   rotate: false
-  xy: 1400, 2
+  xy: 1096, 973
   size: 33, 38
   orig: 33, 38
   offset: 0, 0
   index: -1
 SB_Text2_1_glow
-  rotate: true
-  xy: 1958, 390
+  rotate: false
+  xy: 1995, 572
   size: 47, 52
   orig: 47, 52
   offset: 0, 0
   index: -1
 SB_Text2_2
   rotate: false
-  xy: 1501, 850
+  xy: 1844, 161
   size: 29, 39
   orig: 29, 39
   offset: 0, 0
   index: -1
 SB_Text2_2_glow
-  rotate: false
-  xy: 1903, 288
+  rotate: true
+  xy: 1875, 164
   size: 42, 53
   orig: 42, 53
   offset: 0, 0
   index: -1
 SB_Text2_3
-  rotate: true
-  xy: 1750, 1579
+  rotate: false
+  xy: 1138, 569
   size: 14, 33
   orig: 14, 33
   offset: 0, 0
   index: -1
 SB_Text2_3_glow
-  rotate: false
-  xy: 1011, 478
+  rotate: true
+  xy: 910, 94
   size: 28, 47
   orig: 28, 47
   offset: 0, 0
   index: -1
 SB_Text2_4
-  rotate: false
-  xy: 1997, 349
+  rotate: true
+  xy: 960, 8
   size: 29, 39
   orig: 29, 39
   offset: 0, 0
   index: -1
 SB_Text2_4_glow
   rotate: false
-  xy: 1905, 233
+  xy: 2002, 393
   size: 42, 53
   orig: 42, 53
   offset: 0, 0
   index: -1
 SB_Text2_5
   rotate: true
-  xy: 1137, 729
+  xy: 1092, 31
   size: 32, 34
   orig: 32, 34
   offset: 0, 0
   index: -1
 SB_Text2_5_glow
-  rotate: false
-  xy: 69, 2
+  rotate: true
+  xy: 1995, 524
   size: 46, 48
   orig: 46, 48
   offset: 0, 0
   index: -1
 SB_Text2_6
   rotate: true
-  xy: 409, 895
+  xy: 1538, 6
   size: 26, 41
   orig: 26, 41
   offset: 0, 0
   index: -1
 SB_Text2_6_glow
-  rotate: true
-  xy: 782, 315
+  rotate: false
+  xy: 490, 256
   size: 40, 55
   orig: 40, 55
   offset: 0, 0
   index: -1
 SB_Text2_7
   rotate: false
-  xy: 1435, 2
+  xy: 2002, 353
   size: 33, 38
   orig: 33, 38
   offset: 0, 0
   index: -1
 SB_Text2_7_glow
   rotate: false
-  xy: 1947, 290
+  xy: 959, 39
   size: 47, 52
   orig: 47, 52
   offset: 0, 0
   index: -1
 SB_Text2_8
   rotate: false
-  xy: 752, 404
+  xy: 1128, 30
   size: 28, 33
   orig: 28, 33
   offset: 0, 0
   index: -1
 SB_Text2_8_glow
   rotate: true
-  xy: 1815, 4
+  xy: 1133, 969
   size: 42, 47
   orig: 42, 47
   offset: 0, 0
   index: -1
 SB_Text2_9
   rotate: true
-  xy: 360, 894
+  xy: 1826, 2
   size: 27, 47
   orig: 27, 47
   offset: 0, 0
   index: -1
 SB_Text2_9_glow
   rotate: true
-  xy: 198, 9
+  xy: 1985, 685
   size: 41, 61
   orig: 41, 61
   offset: 0, 0
   index: -1
 TXMD5_BG2
-  rotate: false
-  xy: 1010, 729
-  size: 125, 201
-  orig: 125, 201
+  rotate: true
+  xy: 428, 1283
+  size: 257, 413
+  orig: 257, 413
   offset: 0, 0
   index: -1
 TXMD5_BG2_decor1
-  rotate: false
-  xy: 782, 357
+  rotate: true
+  xy: 1581, 2
   size: 55, 80
   orig: 55, 80
   offset: 0, 0
   index: -1
 TXMD5_BG2_decor2
   rotate: true
-  xy: 1458, 1768
+  xy: 1458, 1783
   size: 4, 271
   orig: 4, 271
   offset: 0, 0
   index: -1
 TXMD5_Black
   rotate: false
-  xy: 1299, 770
+  xy: 1887, 6
   size: 34, 33
   orig: 34, 33
   offset: 0, 0
   index: -1
 TXMD5_Board
   rotate: false
-  xy: 579, 1527
+  xy: 579, 1542
   size: 437, 226
   orig: 437, 226
   offset: 0, 0
   index: -1
 TXMD5_Board2
-  rotate: true
-  xy: 476, 128
+  rotate: false
+  xy: 949, 417
   size: 203, 142
   orig: 203, 142
   offset: 0, 0
   index: -1
 TXMD5_Board3
-  rotate: false
-  xy: 1848, 1579
+  rotate: true
+  xy: 1154, 424
   size: 178, 132
   orig: 178, 132
   offset: 0, 0
   index: -1
 TXMD5_DICE
   rotate: false
-  xy: 1560, 1572
+  xy: 776, 579
   size: 188, 194
   orig: 188, 194
   offset: 0, 0
   index: -1
 TXMD5_Dice3D0001
   rotate: false
-  xy: 1250, 965
+  xy: 1604, 620
   size: 125, 125
   orig: 125, 125
   offset: 0, 0
   index: -1
 TXMD5_Dice3D0002
   rotate: false
-  xy: 1335, 566
+  xy: 1731, 626
   size: 125, 125
   orig: 125, 125
   offset: 0, 0
   index: -1
 TXMD5_Dice3D0003
   rotate: false
-  xy: 1517, 463
+  xy: 1858, 626
   size: 125, 125
   orig: 125, 125
   offset: 0, 0
   index: -1
 TXMD5_Dice3D0004
   rotate: false
-  xy: 1903, 750
+  xy: 1580, 493
   size: 125, 125
   orig: 125, 125
   offset: 0, 0
   index: -1
 TXMD5_Dice3D0005
   rotate: false
-  xy: 1517, 336
+  xy: 783, 104
   size: 125, 125
   orig: 125, 125
   offset: 0, 0
   index: -1
 TXMD5_Dice3D0006
   rotate: false
-  xy: 1470, 209
+  xy: 1327, 254
   size: 125, 125
   orig: 125, 125
   offset: 0, 0
   index: -1
 TXMD5_Dice3D0007
   rotate: false
-  xy: 1470, 82
+  xy: 1327, 127
   size: 125, 125
   orig: 125, 125
   offset: 0, 0
   index: -1
 TXMD5_Dice3D0008
   rotate: false
-  xy: 1644, 463
+  xy: 1454, 288
   size: 125, 125
   orig: 125, 125
   offset: 0, 0
   index: -1
 TXMD5_Dice3D0009
   rotate: false
-  xy: 1644, 336
+  xy: 1454, 161
   size: 125, 125
   orig: 125, 125
   offset: 0, 0
   index: -1
 TXMD5_Dice3D0010
   rotate: false
-  xy: 1597, 209
+  xy: 1581, 366
   size: 125, 125
   orig: 125, 125
   offset: 0, 0
   index: -1
 TXMD5_Dice3D0011
   rotate: false
-  xy: 1597, 82
+  xy: 1581, 239
   size: 125, 125
   orig: 125, 125
   offset: 0, 0
   index: -1
 TXMD5_FX_shine2
   rotate: false
-  xy: 1873, 1713
+  xy: 1836, 753
   size: 158, 158
   orig: 158, 158
   offset: 0, 0
   index: -1
 TXMD5_Frame1
-  rotate: true
-  xy: 1015, 998
+  rotate: false
+  xy: 1458, 1682
   size: 257, 99
   orig: 257, 99
   offset: 0, 0
   index: -1
 TXMD5_Frame_fx2
   rotate: true
-  xy: 837, 932
+  xy: 532, 611
   size: 323, 176
   orig: 323, 176
   offset: 0, 0
   index: -1
 TXMD5_Text1
   rotate: true
-  xy: 261, 2
+  xy: 1327, 381
   size: 124, 113
   orig: 124, 113
   offset: 0, 0
   index: -1
 TXMD5_Text1_glow
   rotate: true
-  xy: 1964, 1416
+  xy: 1923, 1404
   size: 79, 67
   orig: 79, 67
   offset: 0, 0
   index: -1
 TXMD5_Text2
   rotate: true
-  xy: 1903, 877
+  xy: 1928, 1504
   size: 133, 115
   orig: 133, 115
   offset: 0, 0
   index: -1
 TXMD5_Text2_glow
-  rotate: false
-  xy: 1811, 733
+  rotate: true
+  xy: 1912, 434
   size: 88, 69
   orig: 88, 69
   offset: 0, 0
   index: -1
 TXMD5_Text3
-  rotate: false
-  xy: 1453, 1508
+  rotate: true
+  xy: 910, 124
   size: 105, 49
   orig: 105, 49
   offset: 0, 0
   index: -1
 TXMD5_Text3_glow
   rotate: false
-  xy: 620, 138
+  xy: 131, 3
   size: 119, 62
   orig: 119, 62
   offset: 0, 0
   index: -1
 TXMD5_White
   rotate: false
-  xy: 1299, 805
+  xy: 1923, 5
   size: 34, 34
   orig: 34, 34
   offset: 0, 0
   index: -1
 TX_BG2
-  rotate: true
-  xy: 428, 1268
+  rotate: false
+  xy: 273, 494
   size: 257, 413
   orig: 257, 413
   offset: 0, 0
   index: -1
 TX_BG3
-  rotate: false
-  xy: 360, 923
+  rotate: true
+  xy: 766, 973
   size: 297, 328
   orig: 297, 328
   offset: 0, 0
   index: -1
 TX_BG_FX1
   rotate: true
-  xy: 839, 476
+  xy: 966, 561
   size: 208, 170
   orig: 208, 170
   offset: 0, 0
   index: -1
 TX_BG_FX2
-  rotate: true
-  xy: 1750, 1595
+  rotate: false
+  xy: 490, 2
   size: 177, 96
   orig: 177, 96
   offset: 0, 0
   index: -1
-TX_BG_FX_single
-  rotate: false
-  xy: 1335, 693
-  size: 164, 196
-  orig: 164, 196
-  offset: 0, 0
-  index: -1
 TX_Dice_back
   rotate: false
-  xy: 656, 2
+  xy: 1327, 17
   size: 112, 108
   orig: 112, 108
   offset: 0, 0
   index: -1
 TX_Dice_back_FX
   rotate: false
-  xy: 528, 6
+  xy: 1452, 503
   size: 126, 120
   orig: 126, 120
   offset: 0, 0
   index: -1
 TX_Dice_front
   rotate: true
-  xy: 1501, 678
+  xy: 1509, 747
   size: 164, 165
   orig: 164, 165
   offset: 0, 0
   index: -1
 TX_Dice_front_FX
   rotate: false
-  xy: 1018, 1527
+  xy: 778, 231
   size: 183, 184
   orig: 183, 184
   offset: 0, 0
   index: -1
 TX_FX_Ring
   rotate: false
-  xy: 273, 333
+  xy: 261, 84
   size: 227, 227
   orig: 227, 227
   offset: 0, 0
   index: -1
 TX_Text1
   rotate: true
-  xy: 1691, 590
-  size: 86, 62
-  orig: 86, 62
-  offset: 0, 0
-  index: -1
-TX_Text1_frame
-  rotate: true
-  xy: 1187, 1062
-  size: 204, 61
-  orig: 204, 61
+  xy: 1707, 506
+  size: 112, 82
+  orig: 112, 82
   offset: 0, 0
   index: -1
 TX_Text1_glow
   rotate: false
-  xy: 1771, 336
-  size: 86, 62
-  orig: 86, 62
+  xy: 1581, 59
+  size: 122, 90
+  orig: 122, 90
   offset: 0, 0
   index: -1
 TX_Text2
-  rotate: true
-  xy: 1771, 495
-  size: 93, 65
-  orig: 93, 65
+  rotate: false
+  xy: 1442, 415
+  size: 128, 86
+  orig: 128, 86
   offset: 0, 0
   index: -1
 TX_Text2_glow
   rotate: true
-  xy: 1771, 400
-  size: 93, 65
-  orig: 93, 65
+  xy: 1018, 1542
+  size: 138, 93
+  orig: 138, 93
   offset: 0, 0
   index: -1
 Volta_BG2
   rotate: false
-  xy: 2, 1590
+  xy: 2, 1605
   size: 575, 441
   orig: 575, 441
   offset: 0, 0
   index: -1
 Volta_FX_light
-  rotate: true
-  xy: 1116, 1048
+  rotate: false
+  xy: 261, 13
   size: 218, 69
   orig: 218, 69
   offset: 0, 0
   index: -1
 Volta_Frame1_a
-  rotate: true
-  xy: 502, 405
+  rotate: false
+  xy: 490, 100
   size: 257, 127
   orig: 257, 127
   offset: 0, 0
   index: -1
 Volta_Frame1_b
   rotate: true
-  xy: 682, 684
+  xy: 1873, 1789
   size: 257, 149
   orig: 257, 149
   offset: 0, 0
   index: -1
 Volta_MD5
   rotate: true
-  xy: 1523, 1425
+  xy: 1288, 424
   size: 81, 35
   orig: 81, 35
   offset: 0, 0
   index: -1
 Volta_ball1
   rotate: false
-  xy: 1298, 21
+  xy: 1810, 422
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Volta_ball2
   rotate: false
-  xy: 1838, 400
+  xy: 1985, 626
   size: 56, 57
   orig: 56, 57
   offset: 0, 0
   index: -1
 Volta_player_static
   rotate: false
-  xy: 2, 894
+  xy: 2, 909
   size: 356, 357
   orig: 356, 357
   offset: 0, 0
   index: -1
 Volta_text1
   rotate: false
-  xy: 1896, 428
+  xy: 1826, 31
   size: 59, 59
   orig: 59, 59
   offset: 0, 0
   index: -1
 Volta_text1_glow
   rotate: false
-  xy: 1815, 48
+  xy: 1996, 901
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 Volta_text2
   rotate: true
-  xy: 1188, 993
+  xy: 1883, 95
   size: 67, 60
   orig: 67, 60
   offset: 0, 0
   index: -1
 Volta_text2_glow
   rotate: false
-  xy: 1150, 1715
+  xy: 1996, 855
   size: 50, 44
   orig: 50, 44
   offset: 0, 0
   index: -1
 Volta_text3
   rotate: false
-  xy: 1957, 439
+  xy: 1452, 747
   size: 53, 59
   orig: 53, 59
   offset: 0, 0
   index: -1
 Volta_text3_glow
-  rotate: false
-  xy: 1851, 278
+  rotate: true
+  xy: 1992, 1259
   size: 50, 54
   orig: 50, 54
   offset: 0, 0
   index: -1
 Volta_text4
   rotate: true
-  xy: 1456, 340
+  xy: 1948, 279
   size: 72, 59
   orig: 72, 59
   offset: 0, 0
   index: -1
 Volta_text4_glow
-  rotate: true
-  xy: 1092, 939
+  rotate: false
+  xy: 1996, 764
   size: 50, 43
   orig: 50, 43
   offset: 0, 0
   index: -1
 Volta_text5
   rotate: false
-  xy: 1962, 622
+  xy: 1875, 208
   size: 69, 59
   orig: 69, 59
   offset: 0, 0
   index: -1
 Volta_text5_glow
   rotate: false
-  xy: 1945, 344
+  xy: 1996, 809
   size: 50, 44
   orig: 50, 44
   offset: 0, 0
   index: -1
 XD_BG2
   rotate: true
-  xy: 1027, 1761
+  xy: 1027, 1776
   size: 270, 429
   orig: 270, 429
   offset: 0, 0
   index: -1
 XD_BG_FX3
   rotate: false
-  xy: 770, 5
+  xy: 1300, 507
   size: 150, 145
   orig: 150, 145
   offset: 0, 0
   index: -1
 XD_Bowl1
   rotate: false
-  xy: 376, 6
+  xy: 1452, 625
   size: 150, 120
   orig: 150, 120
   offset: 0, 0
   index: -1
 XD_Bowl2
-  rotate: false
-  xy: 2, 2
+  rotate: true
+  xy: 1992, 953
   size: 65, 48
   orig: 65, 48
   offset: 0, 0
   index: -1
 XD_Bowl3
   rotate: false
-  xy: 1462, 590
+  xy: 1581, 151
   size: 143, 86
   orig: 143, 86
   offset: 0, 0
   index: -1
 XD_Bowl_down
   rotate: false
-  xy: 1724, 209
+  xy: 1454, 34
   size: 125, 125
   orig: 125, 125
   offset: 0, 0
   index: -1
 XD_Dish
-  rotate: true
-  xy: 697, 439
+  rotate: false
+  xy: 1731, 1647
   size: 243, 140
   orig: 243, 140
   offset: 0, 0
   index: -1
 XD_Dish_shadow
   rotate: false
-  xy: 1203, 1497
+  xy: 1335, 808
   size: 172, 64
   orig: 172, 64
   offset: 0, 0
   index: -1
 XD_Red1
-  rotate: true
-  xy: 1867, 51
+  rotate: false
+  xy: 1441, 2
   size: 47, 30
   orig: 47, 30
   offset: 0, 0
   index: -1
 XD_Red1_shadow
   rotate: false
-  xy: 1188, 965
+  xy: 1092, 65
   size: 54, 26
   orig: 54, 26
   offset: 0, 0
   index: -1
 XD_Red2
-  rotate: true
-  xy: 1299, 841
+  rotate: false
+  xy: 1996, 728
   size: 50, 34
   orig: 50, 34
   offset: 0, 0
   index: -1
 XD_Red2_shadow
-  rotate: false
-  xy: 1896, 397
+  rotate: true
+  xy: 1945, 102
   size: 60, 29
   orig: 60, 29
   offset: 0, 0
   index: -1
 XD_Text1
-  rotate: true
-  xy: 1015, 932
+  rotate: false
+  xy: 710, 621
   size: 64, 75
   orig: 64, 75
   offset: 0, 0
   index: -1
 XD_Text1_glow
   rotate: false
-  xy: 922, 2
+  xy: 1910, 1124
   size: 68, 79
   orig: 68, 79
   offset: 0, 0
   index: -1
 XD_Text2
-  rotate: true
-  xy: 1724, 2
+  rotate: false
+  xy: 669, 2
   size: 103, 89
   orig: 103, 89
   offset: 0, 0
   index: -1
 XD_Text2_glow
   rotate: false
-  xy: 1668, 748
+  xy: 1810, 326
   size: 69, 94
   orig: 69, 94
   offset: 0, 0
   index: -1
 XD_Text3
   rotate: true
-  xy: 1901, 693
+  xy: 1663, 2
   size: 55, 74
   orig: 55, 74
   offset: 0, 0
   index: -1
 XD_Text3_glow
   rotate: true
-  xy: 1565, 15
+  xy: 1910, 1205
   size: 65, 80
   orig: 65, 80
   offset: 0, 0
   index: -1
 XD_Text4
-  rotate: true
-  xy: 1377, 1497
+  rotate: false
+  xy: 1983, 448
   size: 60, 74
   orig: 60, 74
   offset: 0, 0
   index: -1
 XD_Text4_glow
-  rotate: true
-  xy: 502, 333
+  rotate: false
+  xy: 1976, 1709
   size: 70, 78
   orig: 70, 78
   offset: 0, 0
   index: -1
 XD_Text5
   rotate: false
-  xy: 1841, 603
+  xy: 1881, 338
   size: 49, 82
   orig: 49, 82
   offset: 0, 0
   index: -1
 XD_Text5_glow
   rotate: true
-  xy: 1470, 23
+  xy: 1708, 243
   size: 57, 93
   orig: 57, 93
   offset: 0, 0
   index: -1
 XD_Text6
   rotate: false
-  xy: 1838, 459
+  xy: 1765, 86
   size: 56, 73
   orig: 56, 73
   offset: 0, 0
   index: -1
 XD_Text6_glow
   rotate: false
-  xy: 1400, 42
+  xy: 1932, 353
   size: 68, 79
   orig: 68, 79
   offset: 0, 0
   index: -1
 XD_White1
-  rotate: true
-  xy: 1118, 1713
+  rotate: false
+  xy: 1490, 2
   size: 46, 30
   orig: 46, 30
   offset: 0, 0
   index: -1
 XD_White1_shadow
   rotate: false
-  xy: 656, 112
+  xy: 360, 910
   size: 54, 24
   orig: 54, 24
   offset: 0, 0
   index: -1
 XD_White2
   rotate: false
-  xy: 697, 404
+  xy: 905, 4
   size: 53, 33
   orig: 53, 33
   offset: 0, 0
   index: -1
 XD_White2_shadow
-  rotate: false
-  xy: 1826, 100
+  rotate: true
+  xy: 1739, 9
   size: 61, 28
   orig: 61, 28
   offset: 0, 0
