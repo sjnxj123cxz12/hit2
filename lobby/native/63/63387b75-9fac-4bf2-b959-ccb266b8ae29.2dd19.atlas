@@ -1,1069 +1,1356 @@
 
 icon lobby 3.png
-size: 2001,1317
+size: 2033,1635
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 8gates_BC_Frame1
-  rotate: true
-  xy: 692, 283
+  rotate: false
+  xy: 1638, 1336
   size: 258, 64
   orig: 258, 64
   offset: 0, 0
   index: -1
 XDST_Frame1
-  rotate: true
-  xy: 692, 283
+  rotate: false
+  xy: 1638, 1336
   size: 258, 64
   orig: 258, 64
   offset: 0, 0
   index: -1
 8gates_BC_Frame2
-  rotate: false
-  xy: 1133, 715
+  rotate: true
+  xy: 1099, 354
   size: 257, 84
   orig: 257, 84
   offset: 0, 0
   index: -1
 XDST_Frame2
-  rotate: false
-  xy: 1133, 715
+  rotate: true
+  xy: 1099, 354
   size: 257, 84
   orig: 257, 84
   offset: 0, 0
   index: -1
 8gates_BC_Frame3
-  rotate: false
-  xy: 760, 530
+  rotate: true
+  xy: 1027, 858
   size: 257, 179
   orig: 257, 179
   offset: 0, 0
   index: -1
 XDST_Frame3
-  rotate: false
-  xy: 760, 530
+  rotate: true
+  xy: 1027, 858
   size: 257, 179
   orig: 257, 179
   offset: 0, 0
   index: -1
 8gates_Circle_light
   rotate: false
-  xy: 810, 973
+  xy: 282, 794
   size: 342, 342
   orig: 342, 342
   offset: 0, 0
   index: -1
 8gates_Fish2_BreadLeft
   rotate: true
-  xy: 1909, 235
+  xy: 409, 2
   size: 25, 10
   orig: 25, 10
   offset: 0, 0
   index: -1
 8gates_Fish2_BreadRight
-  rotate: false
-  xy: 1670, 700
+  rotate: true
+  xy: 1312, 307
   size: 8, 28
   orig: 8, 28
   offset: 0, 0
   index: -1
 8gates_Fish2_FLeft
-  rotate: false
-  xy: 1511, 81
+  rotate: true
+  xy: 1425, 528
   size: 22, 18
   orig: 22, 18
   offset: 0, 0
   index: -1
 8gates_Fish2_body
   rotate: false
-  xy: 1404, 81
+  xy: 1508, 687
   size: 105, 145
   orig: 105, 145
   offset: 0, 0
   index: -1
 8gates_Fish2_fins
   rotate: true
-  xy: 1466, 1040
+  xy: 1864, 713
   size: 42, 65
   orig: 42, 65
   offset: 0, 0
   index: -1
 8gates_Fish_BreadLeft
-  rotate: false
-  xy: 735, 823
+  rotate: true
+  xy: 1655, 2
   size: 23, 31
   orig: 23, 31
   offset: 0, 0
   index: -1
 8gates_Fish_BreadRight
   rotate: true
-  xy: 1025, 12
+  xy: 1818, 1036
   size: 46, 10
   orig: 46, 10
   offset: 0, 0
   index: -1
 8gates_Fish_FLeft
-  rotate: false
-  xy: 1703, 6
+  rotate: true
+  xy: 1686, 131
   size: 32, 40
   orig: 32, 40
   offset: 0, 0
   index: -1
 8gates_Fish_FLeft_2
   rotate: false
-  xy: 1976, 80
+  xy: 421, 4
   size: 23, 23
   orig: 23, 23
   offset: 0, 0
   index: -1
 8gates_Fish_FRight
-  rotate: false
-  xy: 1866, 86
+  rotate: true
+  xy: 1445, 313
   size: 43, 31
   orig: 43, 31
   offset: 0, 0
   index: -1
 8gates_Fish_FRight_2
   rotate: false
-  xy: 221, 69
+  xy: 380, 2
   size: 27, 25
   orig: 27, 25
   offset: 0, 0
   index: -1
 8gates_Fish_body2
-  rotate: true
-  xy: 1227, 396
+  rotate: false
+  xy: 1185, 317
   size: 156, 151
   orig: 156, 151
   offset: 0, 0
   index: -1
 8gates_Fish_fins
   rotate: false
-  xy: 1925, 269
+  xy: 1637, 194
   size: 74, 65
   orig: 74, 65
   offset: 0, 0
   index: -1
 8gates_Fish_tails
-  rotate: false
-  xy: 1680, 466
+  rotate: true
+  xy: 1009, 130
   size: 84, 91
   orig: 84, 91
   offset: 0, 0
   index: -1
 8gates_Fr_Mid
-  rotate: false
-  xy: 2, 96
+  rotate: true
+  xy: 1225, 1378
   size: 255, 411
   orig: 255, 411
   offset: 0, 0
   index: -1
 8gates_Light1
   rotate: false
-  xy: 1761, 600
+  xy: 1615, 711
   size: 125, 127
   orig: 125, 127
   offset: 0, 0
   index: -1
 8gates_Light2
   rotate: false
-  xy: 282, 825
+  xy: 1955, 1283
   size: 76, 117
   orig: 76, 117
   offset: 0, 0
   index: -1
 8gates_Light3
   rotate: false
-  xy: 1466, 685
+  xy: 2, 4
   size: 202, 43
   orig: 202, 43
   offset: 0, 0
   index: -1
 8gates_Light4
   rotate: true
-  xy: 1544, 145
+  xy: 1637, 261
   size: 83, 81
   orig: 83, 81
   offset: 0, 0
   index: -1
 8gates_Light_Mon_1
   rotate: true
-  xy: 697, 89
+  xy: 1185, 664
   size: 192, 67
   orig: 192, 67
   offset: 0, 0
   index: -1
 8gates_Light_Mon_10
-  rotate: false
-  xy: 766, 33
+  rotate: true
+  xy: 1514, 349
   size: 192, 67
   orig: 192, 67
   offset: 0, 0
   index: -1
 8gates_Light_Mon_11
-  rotate: false
-  xy: 1366, 616
+  rotate: true
+  xy: 1583, 346
   size: 192, 67
   orig: 192, 67
   offset: 0, 0
   index: -1
 8gates_Light_Mon_12
   rotate: true
-  xy: 1380, 422
+  xy: 1652, 346
   size: 192, 67
   orig: 192, 67
   offset: 0, 0
   index: -1
 8gates_Light_Mon_13
-  rotate: true
-  xy: 1449, 422
+  rotate: false
+  xy: 1721, 448
   size: 192, 67
   orig: 192, 67
   offset: 0, 0
   index: -1
 8gates_Light_Mon_14
-  rotate: true
-  xy: 1382, 228
+  rotate: false
+  xy: 1721, 379
   size: 192, 67
   orig: 192, 67
   offset: 0, 0
   index: -1
 8gates_Light_Mon_2
   rotate: true
-  xy: 1037, 162
+  xy: 1185, 470
   size: 192, 67
   orig: 192, 67
   offset: 0, 0
   index: -1
 8gates_Light_Mon_3
-  rotate: true
-  xy: 1106, 162
+  rotate: false
+  xy: 1636, 1084
   size: 192, 67
   orig: 192, 67
   offset: 0, 0
   index: -1
 8gates_Light_Mon_4
-  rotate: true
-  xy: 1175, 198
+  rotate: false
+  xy: 1419, 834
   size: 192, 67
   orig: 192, 67
   offset: 0, 0
   index: -1
 8gates_Light_Mon_5
   rotate: true
-  xy: 1244, 202
+  xy: 1724, 517
   size: 192, 67
   orig: 192, 67
   offset: 0, 0
   index: -1
 8gates_Light_Mon_6
   rotate: true
-  xy: 1313, 202
+  xy: 1793, 517
   size: 192, 67
   orig: 192, 67
   offset: 0, 0
   index: -1
 8gates_Light_Mon_7
   rotate: true
-  xy: 1197, 4
+  xy: 1862, 517
   size: 192, 67
   orig: 192, 67
   offset: 0, 0
   index: -1
 8gates_Light_Mon_8
-  rotate: true
-  xy: 1266, 8
+  rotate: false
+  xy: 1312, 157
   size: 192, 67
   orig: 192, 67
   offset: 0, 0
   index: -1
 8gates_Light_Mon_9
   rotate: true
-  xy: 1335, 8
+  xy: 1445, 358
   size: 192, 67
   orig: 192, 67
   offset: 0, 0
   index: -1
 8gates_Little_light
-  rotate: false
-  xy: 1133, 950
+  rotate: true
+  xy: 1688, 2
   size: 19, 21
   orig: 19, 21
   offset: 0, 0
   index: -1
 8gates_Text_Bat
   rotate: false
-  xy: 314, 9
+  xy: 1254, 470
   size: 169, 79
   orig: 169, 79
   offset: 0, 0
   index: -1
 8gates_Text_Bat1
   rotate: true
-  xy: 1518, 445
+  xy: 1643, 540
   size: 169, 79
   orig: 169, 79
   offset: 0, 0
   index: -1
 8gates_Text_Bat2
-  rotate: true
-  xy: 1520, 274
+  rotate: false
+  xy: 1312, 226
   size: 169, 79
   orig: 169, 79
   offset: 0, 0
   index: -1
 8gates_Text_Bat3
-  rotate: true
-  xy: 1599, 449
+  rotate: false
+  xy: 947, 49
   size: 169, 79
   orig: 169, 79
   offset: 0, 0
   index: -1
 8gates_Text_Bat4
-  rotate: true
-  xy: 1601, 278
+  rotate: false
+  xy: 1311, 76
   size: 169, 79
   orig: 169, 79
   offset: 0, 0
   index: -1
 8gates_Text_Bat5
-  rotate: true
-  xy: 1680, 559
+  rotate: false
+  xy: 1118, 36
   size: 169, 79
   orig: 169, 79
   offset: 0, 0
   index: -1
 8gates_Text_Bat6
   rotate: true
-  xy: 1682, 295
+  xy: 1870, 757
   size: 169, 79
   orig: 169, 79
   offset: 0, 0
   index: -1
 8gates_Text_Bat7
   rotate: true
-  xy: 1763, 295
+  xy: 1951, 788
   size: 169, 79
   orig: 169, 79
   offset: 0, 0
   index: -1
 8gates_Text_Bat8
   rotate: true
-  xy: 1844, 300
+  xy: 1931, 586
   size: 169, 79
   orig: 169, 79
   offset: 0, 0
   index: -1
 8gates_Text_Bat9
-  rotate: false
-  xy: 1682, 214
+  rotate: true
+  xy: 1556, 175
   size: 169, 79
   orig: 169, 79
   offset: 0, 0
   index: -1
 8gates_Text_Bat10
-  rotate: false
-  xy: 1682, 214
+  rotate: true
+  xy: 1556, 175
   size: 169, 79
   orig: 169, 79
   offset: 0, 0
   index: -1
 8gates_Text_Mon
-  rotate: true
-  xy: 1451, 228
+  rotate: false
+  xy: 1721, 310
   size: 192, 67
   orig: 192, 67
   offset: 0, 0
   index: -1
 8gates_Text_Pearl
-  rotate: true
-  xy: 1769, 59
+  rotate: false
+  xy: 1102, 130
   size: 65, 66
   orig: 65, 66
   offset: 0, 0
   index: -1
 8gates_WaterDrop
   rotate: false
-  xy: 2, 944
+  xy: 2, 1262
   size: 375, 371
   orig: 375, 371
   offset: 0, 0
   index: -1
 8gates_Wheel_1
   rotate: false
-  xy: 760, 711
+  xy: 837, 291
   size: 260, 260
   orig: 260, 260
   offset: 0, 0
   index: -1
 8gates_Wheel_2
   rotate: false
-  xy: 481, 269
+  xy: 1208, 897
   size: 209, 209
   orig: 209, 209
   offset: 0, 0
   index: -1
 8gates_Wheel_3
   rotate: false
-  xy: 1089, 555
+  xy: 1254, 711
   size: 158, 158
   orig: 158, 158
   offset: 0, 0
   index: -1
 8gates_Wheel_4
   rotate: false
-  xy: 1888, 492
+  xy: 1414, 552
   size: 109, 110
   orig: 109, 110
   offset: 0, 0
   index: -1
 8gates_Wheel_Fr2
   rotate: false
-  xy: 259, 242
+  xy: 810, 1138
   size: 220, 236
   orig: 220, 236
   offset: 0, 0
   index: -1
 8gates_Wheel_base
   rotate: false
-  xy: 498, 64
+  xy: 1419, 903
   size: 197, 203
   orig: 197, 203
   offset: 0, 0
   index: -1
 8gates_Wheel_blue
   rotate: true
-  xy: 752, 990
+  xy: 1608, 77
   size: 52, 56
   orig: 52, 56
   offset: 0, 0
   index: -1
 8gates_Wheel_fullcolor
   rotate: false
-  xy: 1466, 730
+  xy: 273, 492
   size: 300, 300
   orig: 300, 300
   offset: 0, 0
   index: -1
+TXL_FX_Lightpub
+  rotate: true
+  xy: 1508, 669
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+TXST_Arm1_L
+  rotate: true
+  xy: 815, 139
+  size: 75, 192
+  orig: 75, 192
+  offset: 0, 0
+  index: -1
+TXST_Arm2_L
+  rotate: true
+  xy: 604, 145
+  size: 78, 209
+  orig: 78, 209
+  offset: 0, 0
+  index: -1
+TXST_BG1
+  rotate: true
+  xy: 810, 1376
+  size: 257, 413
+  orig: 257, 413
+  offset: 0, 0
+  index: -1
+TXST_BG_LightFX1
+  rotate: false
+  xy: 2, 49
+  size: 315, 349
+  orig: 315, 349
+  offset: 0, 0
+  index: -1
+TXST_BlackFilter
+  rotate: true
+  xy: 1032, 1117
+  size: 257, 226
+  orig: 257, 226
+  offset: 0, 0
+  index: -1
+TXST_Body
+  rotate: true
+  xy: 379, 1138
+  size: 222, 387
+  orig: 222, 387
+  offset: 0, 0
+  index: -1
+TXST_Bonus1
+  rotate: false
+  xy: 1915, 253
+  size: 116, 81
+  orig: 116, 81
+  offset: 0, 0
+  index: -1
+TXST_Bonus1_glow
+  rotate: true
+  xy: 282, 1138
+  size: 122, 86
+  orig: 122, 86
+  offset: 0, 0
+  index: -1
+TXST_Bonus2
+  rotate: false
+  xy: 1946, 959
+  size: 85, 61
+  orig: 85, 61
+  offset: 0, 0
+  index: -1
+TXST_Bonus2_glow
+  rotate: false
+  xy: 1931, 517
+  size: 90, 67
+  orig: 90, 67
+  offset: 0, 0
+  index: -1
+TXST_Bonus3
+  rotate: false
+  xy: 1909, 170
+  size: 62, 47
+  orig: 62, 47
+  offset: 0, 0
+  index: -1
+TXST_Bonus3_glow
+  rotate: true
+  xy: 1491, 17
+  size: 68, 52
+  orig: 68, 52
+  offset: 0, 0
+  index: -1
+TXST_EaringL
+  rotate: false
+  xy: 1099, 296
+  size: 12, 56
+  orig: 12, 56
+  offset: 0, 0
+  index: -1
+TXST_Finger
+  rotate: true
+  xy: 1547, 86
+  size: 53, 59
+  orig: 53, 59
+  offset: 0, 0
+  index: -1
+TXST_Flare
+  rotate: false
+  xy: 1755, 840
+  size: 113, 60
+  orig: 113, 60
+  offset: 0, 0
+  index: -1
+TXST_FrontHair
+  rotate: false
+  xy: 1185, 212
+  size: 125, 103
+  orig: 125, 103
+  offset: 0, 0
+  index: -1
+TXST_Hair1
+  rotate: true
+  xy: 319, 29
+  size: 147, 277
+  orig: 147, 277
+  offset: 0, 0
+  index: -1
+TXST_Hair2
+  rotate: false
+  xy: 1865, 928
+  size: 79, 113
+  orig: 79, 113
+  offset: 0, 0
+  index: -1
+TXST_Hair3
+  rotate: false
+  xy: 1955, 1132
+  size: 71, 149
+  orig: 71, 149
+  offset: 0, 0
+  index: -1
+TXST_HairTie
+  rotate: true
+  xy: 1951, 757
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+TXST_HandDice
+  rotate: true
+  xy: 1366, 2
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+TXST_HandDice_00
+  rotate: true
+  xy: 1506, 191
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+TXST_HandDice_01
+  rotate: false
+  xy: 904, 8
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+TXST_HandDice_02
+  rotate: true
+  xy: 1506, 148
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+TXST_HandDice_03
+  rotate: false
+  xy: 1655, 27
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+TXST_HandDice_04
+  rotate: true
+  xy: 1698, 23
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+TXST_HandDice_05
+  rotate: true
+  xy: 1844, 65
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+TXST_HandDice_06
+  rotate: true
+  xy: 1894, 65
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+TXST_HandDice_07
+  rotate: true
+  xy: 1974, 113
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+TXST_HandDice_08
+  rotate: false
+  xy: 1944, 58
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+TXST_Head
+  rotate: false
+  xy: 1525, 543
+  size: 116, 142
+  orig: 116, 142
+  offset: 0, 0
+  index: -1
+TXST_Index
+  rotate: false
+  xy: 794, 1311
+  size: 14, 49
+  orig: 14, 49
+  offset: 0, 0
+  index: -1
+TXST_Lip
+  rotate: false
+  xy: 1602, 25
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+TXST_Text1_1
+  rotate: false
+  xy: 1545, 25
+  size: 55, 59
+  orig: 55, 59
+  offset: 0, 0
+  index: -1
+TXST_Text1_2
+  rotate: false
+  xy: 1433, 2
+  size: 56, 72
+  orig: 56, 72
+  offset: 0, 0
+  index: -1
+TXST_Text1_3
+  rotate: false
+  xy: 1792, 1022
+  size: 24, 60
+  orig: 24, 60
+  offset: 0, 0
+  index: -1
+TXST_Text1_Trail
+  rotate: false
+  xy: 837, 216
+  size: 274, 73
+  orig: 274, 73
+  offset: 0, 0
+  index: -1
+TXST_Text2_1
+  rotate: false
+  xy: 1482, 87
+  size: 63, 59
+  orig: 63, 59
+  offset: 0, 0
+  index: -1
+TXST_Text2_2
+  rotate: true
+  xy: 1637, 165
+  size: 27, 74
+  orig: 27, 74
+  offset: 0, 0
+  index: -1
+TXST_Text2_3
+  rotate: true
+  xy: 842, 2
+  size: 54, 60
+  orig: 54, 60
+  offset: 0, 0
+  index: -1
 XDST_Arm_R
   rotate: true
-  xy: 869, 285
+  xy: 1613, 840
   size: 60, 140
   orig: 60, 140
   offset: 0, 0
   index: -1
 XDST_Arm_R_shadow
   rotate: true
-  xy: 172, 2
+  xy: 1169, 117
   size: 60, 140
   orig: 60, 140
   offset: 0, 0
   index: -1
 XDST_BG
   rotate: false
-  xy: 1125, 392
+  xy: 1343, 307
   size: 100, 161
   orig: 100, 161
   offset: 0, 0
   index: -1
 XDST_BG1
-  rotate: true
-  xy: 259, 90
-  size: 150, 237
-  orig: 150, 237
+  rotate: false
+  xy: 2, 400
+  size: 269, 425
+  orig: 269, 425
   offset: 0, 0
   index: -1
 XDST_BackLight1
-  rotate: true
-  xy: 1768, 729
+  rotate: false
+  xy: 768, 1152
   size: 24, 208
   orig: 24, 208
   offset: 0, 0
   index: -1
 XDST_BackLight2
-  rotate: false
-  xy: 1011, 137
+  rotate: true
+  xy: 1208, 871
   size: 24, 208
   orig: 24, 208
   offset: 0, 0
   index: -1
 XDST_BackLight3
-  rotate: false
-  xy: 1970, 1173
+  rotate: true
+  xy: 626, 795
   size: 29, 142
   orig: 29, 142
   offset: 0, 0
   index: -1
 XDST_BackLight4
   rotate: true
-  xy: 485, 2
+  xy: 1289, 45
   size: 29, 142
   orig: 29, 142
   offset: 0, 0
   index: -1
 XDST_BackLight5
   rotate: false
-  xy: 1022, 728
+  xy: 1074, 613
   size: 109, 243
   orig: 109, 243
   offset: 0, 0
   index: -1
 XDST_BackLight6
   rotate: false
-  xy: 758, 285
+  xy: 1525, 1133
   size: 109, 243
   orig: 109, 243
   offset: 0, 0
   index: -1
 XDST_BlackFilter
-  rotate: true
-  xy: 555, 543
+  rotate: false
+  xy: 1260, 1173
   size: 263, 203
   orig: 263, 203
   offset: 0, 0
   index: -1
 XDST_Body
   rotate: true
-  xy: 1154, 1084
+  xy: 1638, 1402
   size: 231, 382
   orig: 231, 382
   offset: 0, 0
   index: -1
 XDST_Box
-  rotate: false
-  xy: 1888, 604
+  rotate: true
+  xy: 1830, 1043
   size: 108, 123
   orig: 108, 123
   offset: 0, 0
   index: -1
 XDST_Chip1
   rotate: true
-  xy: 360, 879
+  xy: 770, 794
   size: 30, 17
   orig: 30, 17
   offset: 0, 0
   index: -1
 XDST_Chip2
-  rotate: true
-  xy: 360, 911
+  rotate: false
+  xy: 1985, 336
   size: 31, 17
   orig: 31, 17
   offset: 0, 0
   index: -1
 XDST_Dish
-  rotate: false
-  xy: 1560, 620
+  rotate: true
+  xy: 1800, 902
   size: 118, 63
   orig: 118, 63
   offset: 0, 0
   index: -1
 XDST_Earing_L
   rotate: false
-  xy: 1909, 262
+  xy: 794, 1273
   size: 14, 36
   orig: 14, 36
   offset: 0, 0
   index: -1
 XDST_Earing_R
-  rotate: false
-  xy: 1366, 578
+  rotate: true
+  xy: 947, 2
   size: 12, 36
   orig: 12, 36
   offset: 0, 0
   index: -1
 XDST_Eye_Wink
   rotate: true
-  xy: 1125, 356
+  xy: 1876, 142
   size: 34, 31
   orig: 34, 31
   offset: 0, 0
   index: -1
 XDST_Eye_Wink_L
-  rotate: true
-  xy: 485, 33
+  rotate: false
+  xy: 349, 2
   size: 29, 25
   orig: 29, 25
   offset: 0, 0
   index: -1
 XDST_FX_Lightpub
   rotate: true
-  xy: 481, 251
+  xy: 1416, 27
   size: 16, 15
   orig: 16, 15
   offset: 0, 0
   index: -1
 XDST_FX_shine
   rotate: false
-  xy: 1037, 2
+  xy: 1254, 551
   size: 158, 158
   orig: 158, 158
   offset: 0, 0
   index: -1
 XDST_Finger_Middle_R
   rotate: false
-  xy: 1519, 2
+  xy: 273, 404
   size: 42, 33
   orig: 42, 33
   offset: 0, 0
   index: -1
 XDST_Finger_Pinky_R
-  rotate: false
-  xy: 1089, 530
+  rotate: true
+  xy: 1074, 579
   size: 32, 23
   orig: 32, 23
   offset: 0, 0
   index: -1
 XDST_Finger_Ring_R
-  rotate: true
-  xy: 1837, 86
+  rotate: false
+  xy: 1984, 759
   size: 38, 27
   orig: 38, 27
   offset: 0, 0
   index: -1
 XDST_Finger_index_R
-  rotate: false
-  xy: 1852, 1032
+  rotate: true
+  xy: 811, 502
   size: 49, 21
   orig: 49, 21
   offset: 0, 0
   index: -1
 XDST_Flare
   rotate: false
-  xy: 1544, 93
+  xy: 1720, 258
   size: 92, 50
   orig: 92, 50
   offset: 0, 0
   index: -1
 XDST_Frame4
   rotate: false
-  xy: 2, 509
+  xy: 2, 827
   size: 278, 433
   orig: 278, 433
   offset: 0, 0
   index: -1
 XDST_Hairfront_L1
-  rotate: false
-  xy: 1638, 79
+  rotate: true
+  xy: 947, 16
   size: 31, 71
   orig: 31, 71
   offset: 0, 0
   index: -1
 XDST_Hairfront_R1
-  rotate: false
-  xy: 1853, 217
+  rotate: true
+  xy: 759, 2
   size: 54, 81
   orig: 54, 81
   offset: 0, 0
   index: -1
 XDST_Hairside_R1
   rotate: false
-  xy: 1392, 691
+  xy: 1955, 1022
   size: 72, 108
   orig: 72, 108
   offset: 0, 0
   index: -1
 XDST_Hairside_R2
   rotate: false
-  xy: 1019, 530
+  xy: 1915, 336
   size: 68, 179
   orig: 68, 179
   offset: 0, 0
   index: -1
 XDST_Hairside_R3
-  rotate: true
-  xy: 2, 2
+  rotate: false
+  xy: 1414, 664
   size: 92, 168
   orig: 92, 168
   offset: 0, 0
   index: -1
 XDST_Hand_L
-  rotate: true
-  xy: 1029, 356
+  rotate: false
+  xy: 1618, 988
   size: 172, 94
   orig: 172, 94
   offset: 0, 0
   index: -1
 XDST_Hand_R
   rotate: true
-  xy: 960, 60
+  xy: 1289, 2
   size: 41, 75
   orig: 41, 75
   offset: 0, 0
   index: -1
 XDST_Smile
-  rotate: true
-  xy: 664, 498
+  rotate: false
+  xy: 304, 2
   size: 43, 25
   orig: 43, 25
   offset: 0, 0
   index: -1
 XDST_Text1_1
   rotate: false
-  xy: 547, 480
+  xy: 1973, 156
   size: 58, 61
   orig: 58, 61
   offset: 0, 0
   index: -1
 XDST_Text1_2
-  rotate: true
-  xy: 671, 808
+  rotate: false
+  xy: 1985, 453
   size: 46, 62
   orig: 46, 62
   offset: 0, 0
   index: -1
 XDST_Text1_3
-  rotate: true
-  xy: 1519, 37
+  rotate: false
+  xy: 1666, 77
   size: 40, 52
   orig: 40, 52
   offset: 0, 0
   index: -1
 XDST_Text1_4
   rotate: false
-  xy: 607, 480
+  xy: 1898, 1339
   size: 55, 61
   orig: 55, 61
   offset: 0, 0
   index: -1
 XDST_Text1_5
   rotate: true
-  xy: 1618, 250
+  xy: 1909, 142
   size: 26, 62
   orig: 26, 62
   offset: 0, 0
   index: -1
 XDST_Text1_6
   rotate: false
-  xy: 629, 2
+  xy: 273, 439
   size: 44, 51
   orig: 44, 51
   offset: 0, 0
   index: -1
 XDST_Text1_Trail
   rotate: false
-  xy: 282, 480
+  xy: 1260, 1108
   size: 263, 63
   orig: 263, 63
   offset: 0, 0
   index: -1
 XDST_Text2
-  rotate: true
-  xy: 1970, 1071
+  rotate: false
+  xy: 1525, 1108
   size: 100, 23
   orig: 100, 23
   offset: 0, 0
   index: -1
 XDST_Text2_ThunderFX
-  rotate: false
-  xy: 1779, 10
+  rotate: true
+  xy: 1977, 219
   size: 32, 47
   orig: 32, 47
   offset: 0, 0
   index: -1
 XDST_Text2_ThunderFX2
-  rotate: true
-  xy: 671, 856
+  rotate: false
+  xy: 759, 58
   size: 186, 79
   orig: 186, 79
   offset: 0, 0
   index: -1
 XDST_Text2_TrailThunder
   rotate: false
-  xy: 172, 64
+  xy: 1007, 826
   size: 47, 30
   orig: 47, 30
   offset: 0, 0
   index: -1
 XDST_Text2_banner
-  rotate: true
-  xy: 1511, 101
+  rotate: false
+  xy: 1185, 179
   size: 125, 31
   orig: 125, 31
   offset: 0, 0
   index: -1
 XDST_Text2_banner_glow
-  rotate: true
-  xy: 925, 103
+  rotate: false
+  xy: 1618, 902
   size: 180, 84
   orig: 180, 84
   offset: 0, 0
   index: -1
 XDST_Thunder2_00
   rotate: false
-  xy: 1520, 230
+  xy: 909, 832
   size: 96, 42
   orig: 96, 42
   offset: 0, 0
   index: -1
 XDST_Thunder2_01
-  rotate: true
-  xy: 1627, 152
+  rotate: false
+  xy: 206, 5
   size: 96, 42
   orig: 96, 42
   offset: 0, 0
   index: -1
 XDST_Thunder2_02
-  rotate: false
-  xy: 1671, 170
+  rotate: true
+  xy: 1985, 355
   size: 96, 42
   orig: 96, 42
   offset: 0, 0
   index: -1
 XDST_Thunder2_03
-  rotate: false
-  xy: 1671, 170
+  rotate: true
+  xy: 1985, 355
   size: 96, 42
   orig: 96, 42
   offset: 0, 0
   index: -1
 XDST_Thunder2_04
   rotate: false
-  xy: 1769, 170
+  xy: 1814, 266
   size: 96, 42
   orig: 96, 42
   offset: 0, 0
   index: -1
 XDST_Thunder2_05
   rotate: false
-  xy: 1671, 126
+  xy: 1713, 214
   size: 96, 42
   orig: 96, 42
   offset: 0, 0
   index: -1
 XDST_Thunder2_06
   rotate: false
-  xy: 1769, 126
+  xy: 1713, 170
   size: 96, 42
   orig: 96, 42
   offset: 0, 0
   index: -1
 XDST_Thunder2_07
-  rotate: true
-  xy: 1867, 119
+  rotate: false
+  xy: 1814, 222
   size: 96, 42
   orig: 96, 42
   offset: 0, 0
   index: -1
 XDST_Thunder2_09
   rotate: false
-  xy: 1671, 82
+  xy: 1811, 178
   size: 96, 42
   orig: 96, 42
   offset: 0, 0
   index: -1
 XDST_Thunder_00
   rotate: true
-  xy: 960, 26
+  xy: 1020, 15
   size: 32, 63
   orig: 32, 63
   offset: 0, 0
   index: -1
 XDST_Thunder_01
   rotate: true
-  xy: 697, 55
+  xy: 1085, 2
   size: 32, 63
   orig: 32, 63
   offset: 0, 0
   index: -1
 XDST_Thunder_03
   rotate: true
-  xy: 675, 21
+  xy: 1150, 2
   size: 32, 63
   orig: 32, 63
   offset: 0, 0
   index: -1
 XDST_Thunder_04
   rotate: true
-  xy: 1925, 235
+  xy: 1215, 2
   size: 32, 63
   orig: 32, 63
   offset: 0, 0
   index: -1
 XDST_Thunder_05
   rotate: true
-  xy: 1837, 52
+  xy: 1912, 219
   size: 32, 63
   orig: 32, 63
   offset: 0, 0
   index: -1
 XDST_Thunder_06
   rotate: true
-  xy: 1671, 48
+  xy: 1556, 141
   size: 32, 63
   orig: 32, 63
   offset: 0, 0
   index: -1
 XDST_Thunder_08
-  rotate: false
-  xy: 1911, 170
+  rotate: true
+  xy: 1811, 144
   size: 32, 63
   orig: 32, 63
   offset: 0, 0
   index: -1
 XDST_Thunder_09
-  rotate: false
-  xy: 1911, 105
+  rotate: true
+  xy: 1621, 131
   size: 32, 63
   orig: 32, 63
   offset: 0, 0
   index: -1
 XDST_Thunder_10
-  rotate: false
-  xy: 1945, 170
+  rotate: true
+  xy: 1728, 136
   size: 32, 63
   orig: 32, 63
   offset: 0, 0
   index: -1
 XDST_Thunder_11
   rotate: false
-  xy: 1945, 105
+  xy: 1708, 66
   size: 32, 63
   orig: 32, 63
   offset: 0, 0
   index: -1
 XDST_Thunder_13
-  rotate: true
-  xy: 1911, 71
+  rotate: false
+  xy: 1742, 71
   size: 32, 63
   orig: 32, 63
   offset: 0, 0
   index: -1
 XDST_Thunder_14
-  rotate: true
-  xy: 1902, 37
+  rotate: false
+  xy: 1776, 71
   size: 32, 63
   orig: 32, 63
   offset: 0, 0
   index: -1
 XDST_Thunder_15
   rotate: false
-  xy: 1967, 6
+  xy: 1810, 79
   size: 32, 63
   orig: 32, 63
   offset: 0, 0
   index: -1
 XDST_Thunder_16
   rotate: true
-  xy: 1573, 59
+  xy: 1748, 37
   size: 32, 63
   orig: 32, 63
   offset: 0, 0
   index: -1
 XDST_Thunder_17
   rotate: true
-  xy: 1573, 25
+  xy: 1844, 108
   size: 32, 63
   orig: 32, 63
   offset: 0, 0
   index: -1
 XDST_Thunder_18
   rotate: true
-  xy: 1638, 14
+  xy: 1909, 108
   size: 32, 63
   orig: 32, 63
   offset: 0, 0
   index: -1
 hh_A
   rotate: false
-  xy: 869, 347
+  xy: 1636, 1153
   size: 158, 181
   orig: 158, 181
   offset: 0, 0
   index: -1
 hh_BG
   rotate: true
-  xy: 379, 1044
+  xy: 379, 1362
   size: 271, 429
   orig: 271, 429
   offset: 0, 0
   index: -1
 hh_FLARE
   rotate: true
-  xy: 1766, 471
+  xy: 1742, 711
   size: 127, 120
   orig: 127, 120
   offset: 0, 0
   index: -1
 hh_Glow
   rotate: true
-  xy: 1768, 755
+  xy: 604, 225
   size: 275, 231
   orig: 275, 231
   offset: 0, 0
   index: -1
 hh_K
   rotate: false
-  xy: 766, 102
+  xy: 1796, 1153
   size: 157, 181
   orig: 157, 181
   offset: 0, 0
   index: -1
 hh_Q
-  rotate: false
-  xy: 1249, 554
+  rotate: true
+  xy: 598, 28
   size: 115, 159
   orig: 115, 159
   offset: 0, 0
   index: -1
 hh_Spade
-  rotate: false
-  xy: 282, 545
+  rotate: true
+  xy: 811, 553
   size: 271, 261
   orig: 271, 261
   offset: 0, 0
   index: -1
 hh_Suit
-  rotate: true
-  xy: 1538, 1032
+  rotate: false
+  xy: 319, 178
   size: 283, 312
   orig: 283, 312
   offset: 0, 0
   index: -1
 hh_Text_Hac
-  rotate: false
-  xy: 1404, 8
+  rotate: true
+  xy: 1483, 234
   size: 113, 71
   orig: 113, 71
   offset: 0, 0
   index: -1
 hh_Text_Hong
   rotate: true
-  xy: 1925, 336
+  xy: 1113, 198
   size: 154, 70
   orig: 154, 70
   offset: 0, 0
   index: -1
 hh_dot_glow
-  rotate: true
-  xy: 1011, 112
+  rotate: false
+  xy: 1074, 553
   size: 23, 24
   orig: 23, 24
   offset: 0, 0
   index: -1
 hh_holo
-  rotate: true
-  xy: 1154, 801
+  rotate: false
+  xy: 626, 826
   size: 281, 310
   orig: 281, 310
   offset: 0, 0
   index: -1
 hh_overlay
-  rotate: false
-  xy: 379, 808
+  rotate: true
+  xy: 575, 502
   size: 290, 234
   orig: 290, 234
   offset: 0, 0
   index: -1
 hh_spade_top
   rotate: true
-  xy: 1852, 1055
+  xy: 909, 876
   size: 260, 116
   orig: 260, 116
   offset: 0, 0
   index: -1
 hh_splash_glow
   rotate: true
-  xy: 1737, 2
+  xy: 1748, 2
   size: 33, 40
   orig: 33, 40
   offset: 0, 0
